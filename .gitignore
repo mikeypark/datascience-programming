@@ -19,3 +19,6 @@ wheels/
 
 # 제출용 zip
 submissions/
+
+# 개인 문서
+mydoc/
