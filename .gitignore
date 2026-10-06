@@ -13,6 +13,9 @@ wheels/
 .pytest_cache/
 .ruff_cache/
 
+# IDE
+.idea/
+
 # 네이티브 빌드 산출물
 *.so
 *.o
